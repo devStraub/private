@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+:root {
+    --primary-color: #2B3674;
+    --secondary-color: #1CE286;
+    --secondary-hover-color: #61FFB5;
+    --back-color: #f5f5f5;
+    --gray-color: #93A0C9;
+    --text-primary-color: #FFFFFF;
+    --text-inactive: #A3AED0;
+    --header-button-color: #F4F6FA;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
